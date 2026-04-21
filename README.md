@@ -1,1 +1,1 @@
-# javascript-algorithms
+# JavaScript algorithm projects completed as part of freeCodeCamp's JavaScript Algorithms and Data Structures certification. Each folder contains my solution with inline comments explaining the approach.
